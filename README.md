@@ -1,6 +1,6 @@
 # Bixa-chat-AI
 
-Bixa is an AI Chat built with OpenAI API model "text-davinci-003"
+Bixa is an AI Chat built with OpenAI API model "text-davinci-003", You need to generate your own api key from OpenAI
 
 # Setup Instructions for Server Project
 This project is built with the following tools and libraries: 
